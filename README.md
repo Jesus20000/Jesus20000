@@ -15,7 +15,7 @@ I'm a Data Analyst at Azersun Holding, Machine Learning Specialist, and the Foun
 - Open-source data science tools and libraries
 
 ### 🤔 I’m looking for help with
-- Finding remote/hybrid data analysis and machine learning opportunities in Poland
+- Finding remote/hybrid data analysis and machine learning related opportunities in Poland (Especially in Warsaw) 
 
 ### 💬 Ask me about
 - Data analysis with Python, SQL, and Power BI
