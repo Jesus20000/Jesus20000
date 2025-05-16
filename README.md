@@ -23,9 +23,6 @@ I'm a Data Analyst at Azersun Holding, Machine Learning Specialist, and the Foun
 - [Kaggle](https://www.kaggle.com/isazeynalov)
 - [Personal website](https://jesustechinsights.com/)
 
-### 😄 Pronouns
-He/Him
-
 ### ⚡ Fun fact
 I'm an enthusiastic learner on Duolingo, currently focusing on mastering Polish for my upcoming move to Warsaw for my master's degree. I'm also a blues guitarist, amateur photographer, singer, and writer.
 
