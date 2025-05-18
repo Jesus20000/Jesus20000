@@ -21,10 +21,9 @@ I'm a Data Analyst at Azersun Holding, Machine Learning Specialist, and the Foun
 ### 📫 How to reach me
 - [LinkedIn](https://www.linkedin.com/in/isa-zeynalov-56a8a31a9/)
 - [Kaggle](https://www.kaggle.com/isazeynalov)
-- [Personal website](https://jesustechinsights.com/)
 
-### ⚡ Fun fact
-I'm an enthusiastic learner on Duolingo, currently focusing on mastering Polish for my upcoming move to Warsaw for my master's degree. I'm also a blues guitarist, amateur photographer, singer, and writer.
+### ⚡ A bit about me
+I'm also a blues guitarist, amateur photographer, singer, and writer.
 
 ### Let's Connect!
 For more insights, projects, and updates, follow me on my social platforms. Let's connect and grow together in the exciting world of data and technology!
