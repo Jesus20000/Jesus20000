@@ -1,26 +1,25 @@
 ## Hi there 👋
 
-I'm a Data Analyst at Azersun Holding, Machine Learning Specialist, and the Founder of Jesustechinsights. With a solid foundation in data analysis and machine learning, I am passionate about transforming data into actionable insights. I am always eager to collaborate on innovative projects and explore new opportunities in the field.
+I'm a Data Analyst at Vantive company, With a solid foundation in data analytics engineering and machine learning, I am passionate about dance with data. I am always eager to collaborate on innovative projects and explore new opportunities in the field.
 
 ### 🔭 I’m currently working on
-- Different Machine Learning models, Web Scraping, Data Analysis, Data Governance Analysis projects
+- Different Machine Learning models, Web Scraping, Data Analysis and Engineering projects
 
 ### 🌱 I’m currently learning
-- Advanced techniques in machine learning, deep learning and data analysis
-- Polish language
+- Advanced techniques in Data Advanced Analytics and Data Engineering
 
 ### 👯 I’m looking to collaborate on
 - Machine learning projects
-- Data analysis and visualization
+- Data analysis and Engineering
 - Open-source data science tools and libraries
 
 ### 💬 Ask me about
-- Data analysis with Python, SQL, and Power BI
-- Machine learning model development and deployment
+- Data analysis with Python, SQL, Power BI and Alteryx
+- Data Advanced Analytics and Data Engineering
 
 ### 📫 How to reach me
 - [LinkedIn](https://www.linkedin.com/in/isa-zeynalov-56a8a31a9/)
-- [Kaggle](https://www.kaggle.com/isazeynalov)
+- [Website](https://jesus20000.github.io/IsaZeynalov.github.io/)
 
 ### ⚡ A bit about me
 I'm also a blues guitarist, amateur photographer, singer, and writer.
